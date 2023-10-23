@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\parcalar\parcalar\bin\Debug\parcalar.exe.config
+C:\Users\User\source\repos\parcalar\parcalar\bin\Debug\parcalar.exe
+C:\Users\User\source\repos\parcalar\parcalar\bin\Debug\parcalar.pdb
+C:\Users\User\source\repos\parcalar\parcalar\obj\Debug\parcalar.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\parcalar\parcalar\obj\Debug\parcalar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\parcalar\parcalar\obj\Debug\parcalar.Form1.resources
+C:\Users\User\source\repos\parcalar\parcalar\obj\Debug\parcalar.Properties.Resources.resources
+C:\Users\User\source\repos\parcalar\parcalar\obj\Debug\parcalar.csproj.GenerateResource.cache
+C:\Users\User\source\repos\parcalar\parcalar\obj\Debug\parcalar.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\parcalar\parcalar\obj\Debug\parcalar.exe
+C:\Users\User\source\repos\parcalar\parcalar\obj\Debug\parcalar.pdb

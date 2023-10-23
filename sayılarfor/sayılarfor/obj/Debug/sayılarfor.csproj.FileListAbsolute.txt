@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\sayılarfor\sayılarfor\bin\Debug\sayılarfor.exe.config
+C:\Users\User\source\repos\sayılarfor\sayılarfor\bin\Debug\sayılarfor.exe
+C:\Users\User\source\repos\sayılarfor\sayılarfor\bin\Debug\sayılarfor.pdb
+C:\Users\User\source\repos\sayılarfor\sayılarfor\obj\Debug\sayılarfor.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sayılarfor\sayılarfor\obj\Debug\sayılarfor.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\sayılarfor\sayılarfor\obj\Debug\sayılarfor.Form1.resources
+C:\Users\User\source\repos\sayılarfor\sayılarfor\obj\Debug\sayılarfor.Properties.Resources.resources
+C:\Users\User\source\repos\sayılarfor\sayılarfor\obj\Debug\sayılarfor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sayılarfor\sayılarfor\obj\Debug\sayılarfor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sayılarfor\sayılarfor\obj\Debug\sayılarfor.exe
+C:\Users\User\source\repos\sayılarfor\sayılarfor\obj\Debug\sayılarfor.pdb
